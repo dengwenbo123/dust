@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">沙漠2</string>
+    <string name="fah">华氏温度</string>
+    <string name="sub">提交</string>
+    <string name="BMI">身体质量指数</string>
+    <string name="Height">输入身高(米)</string>
+    <string name="Weight">输入体重（千克）</string>
+</resources>

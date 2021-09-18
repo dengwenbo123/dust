@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dust2</string>
+    <string name="fah">Fahrentheit</string>
+    <string name="sub">submit</string>
+    <string name="BMI">Body Mass Index</string>
+    <string name="Height">Input your hight(m)</string>
+    <string name="Weight">Input your wight(kg)</string>
+</resources>
